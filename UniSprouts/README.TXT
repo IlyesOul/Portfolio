@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+This is Family Tree of Unisprouts
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Reading in data from a 2d Array Matrix, the program counstructs a "Family Tree" LinkedList with keeping generations intact. The user can then get a list of any persons relatives.
+
+This project uses doubly-linked lists and recursion. This is a Java program
