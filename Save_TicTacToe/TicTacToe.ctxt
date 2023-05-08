@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment1.params=
+comment1.target=void\ main()
+comment2.params=let\ pl
+comment2.target=TTT\ makeTTT(char,\ int)
+comment3.params=
+comment3.target=void\ check()
+comment4.params=
+comment4.target=void\ print()
+numComments=5
