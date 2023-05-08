@@ -19,8 +19,6 @@ Gathering some basic info from the user, the program will know the users prefere
 Iterating through the portfolio, the program asks how many shares of the stock the user would like, then sees if its too expensive as per the budget.
 It remove any risky or expensive stocks from the portfolio.
 
-Overall information: This program utilizes JSON API requests, dictionaries, user input, classes and objects, lists, Machine Learning, RandomForestEnsembles, matplotlib,
-sklearn, and functions.
+Overall information: This program utilizes JSON API requests, dictionaries, user input, classes and objects, lists, Machine Learning, Random ForestEnsembles (Machine Learning), matplotlib, sklearn, and functions.
 
-NOTE: This program heavily utilizes user input, so please make sure that no mismatches are given, time intervals are actually within legitimate boundaries (correct amount of days
-for months), and giving what the program requests.
+NOTE: This program heavily utilizes user input, so please make sure that no mismatches are given, time intervals are actually within legitimate boundaries (correct amount of days for months), and giving what the program requests for input.
