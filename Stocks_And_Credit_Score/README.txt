@@ -11,7 +11,7 @@ It will then ask the user what they want for a loan for investing, and based off
 The second half of the program entails graphing stock preformances and analyzes stock preformances.
 An object of the second half is instantiated, and the loan amount orginally given is passed into it. 
 The program then asks the user for a stock ticker, an interval of time, and a certain aspect (Opening price, closing price, low price, high price, volume of shares sold).
-To fetch this information, it makes JSON requests to the Yahoo! Finance API
+To fetch this information, it makes JSON requests to the Yahoo! Finance API.
 It then graphs this information.
 
 The next function of the behavior is a portfolio analysis.
