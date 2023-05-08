@@ -22,3 +22,5 @@ It remove any risky or expensive stocks from the portfolio.
 Overall information: This program utilizes JSON API requests, dictionaries, user input, classes and objects, lists, Machine Learning, Random Forest Ensembles (Machine Learning), matplotlib, sklearn, and functions.
 
 NOTE: This program heavily utilizes user input, so please make sure that no mismatches are given, time intervals are actually within legitimate boundaries (correct amount of days for months), and giving what the program requests for input.
+
+Run the "Credit_Score_Classifer.py", as it includes the "GraphStocks.py" behavior
