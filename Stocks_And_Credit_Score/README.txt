@@ -4,7 +4,7 @@ This is really 2 programs in one, so I will describe their behaviors as so.
 
 The first portion of the program deals with credit score classification. Using an online dataset entailing credit score information, this program classifies people into 
 "Good", "Bad", or "Standard" credit scores.
-For classification, I used a RandomForestClassifier. I fine-tuned its parameters to prevent overfitting and make robust predictions. 
+For classification, I used a Random Forest classifier. I fine-tuned its parameters to prevent overfitting and make robust predictions. 
 The program accepts user input gathering the appropriate attributes to make a classification.
 It will then ask the user what they want for a loan for investing, and based off their score a fraction (or whole) of the requested loan will be given.
 
