@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Data_Structure_Program
+comment1.params=
+comment1.target=void\ Main()
+comment2.params=
+comment2.target=void\ initialize()
+comment3.params=
+comment3.target=void\ programAssister()
+comment4.params=
+comment4.target=void\ structureInformation()
+comment5.params=
+comment5.target=void\ printQueue()
+comment6.params=
+comment6.target=void\ assessQueue()
+comment7.params=rep
+comment7.target=void\ blankSpace(int)
+numComments=8

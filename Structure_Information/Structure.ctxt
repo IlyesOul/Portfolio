@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Structure
+comment1.params=name\ time\ space\ description\ timeS\ spaceS
+comment1.target=Structure(java.lang.String,\ java.lang.Double,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=Structure()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.Double\ getTime()
+comment5.params=
+comment5.target=int\ getSpace()
+comment6.params=
+comment6.target=java.lang.String\ getDescription()
+comment7.params=
+comment7.target=java.lang.String\ getSpaceS()
+comment8.params=
+comment8.target=java.lang.String\ getTimeS()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
