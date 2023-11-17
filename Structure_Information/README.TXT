@@ -12,4 +12,4 @@ If the user chose time-efficiency, the program will request whether or not O(N) 
 
 This program utilizes Hashmaps, Queues, Stacks, iterators, objects, and user input.
 
-The main file to run is "Data_Structure_Program"
+The main file is "Data_Structure_Program.java"
